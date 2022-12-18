@@ -1,4 +1,19 @@
  body{
-    background-color: rgb(211, 226, 227);
+    background-color: rgb(182, 247, 252);
     border: 2px;
-} 
+}
+/* #cv-form{
+    display: none;
+}  */
+#cv-template{
+    display: none;
+}
+  .myimg{
+    /* border: 1px solid rgb(54, 130, 210); */
+    border-radius: 50%;
+    width:200px;
+  } 
+
+  .background{
+    background-color: rgb(85, 210, 216);
+  }
